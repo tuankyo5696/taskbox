@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/main.css",
+    "main.js": "/main.9b23b7bf82a11295f672.bundle.js",
+    "main.css.map": "/main.css.map",
+    "main.js.map": "/main.9b23b7bf82a11295f672.bundle.js.map",
+    "runtime~main.js": "/runtime~main.9b23b7bf82a11295f672.bundle.js",
+    "runtime~main.js.map": "/runtime~main.9b23b7bf82a11295f672.bundle.js.map",
+    "vendors~main.js": "/vendors~main.9b23b7bf82a11295f672.bundle.js",
+    "vendors~main.js.map": "/vendors~main.9b23b7bf82a11295f672.bundle.js.map",
+    "iframe.html": "/iframe.html",
+    "precache-manifest.ab1f5848116e1121ca1fb5249f21281c.js": "/precache-manifest.ab1f5848116e1121ca1fb5249f21281c.js",
+    "service-worker.js": "/service-worker.js",
+    "static/media/loading.gif": "/static/media/loading.d71d8ccb.gif",
+    "static/media/FontIcon.component.css": "/static/media/uma-icon.0c02eff7.ttf"
+  }
+}
